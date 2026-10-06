@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Base de datos SQLite local (si usas MySQL no afecta, pero es buena práctica)
+*.sqlite3
+
+# Archivos del sistema y credenciales
+.env
+.DS_Store
